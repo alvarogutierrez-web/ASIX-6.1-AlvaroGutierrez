@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <id>https://www.motornews.com/</id>
+  <title>Noticias sobre coches</title>
+  <subtitle>ÚLTIMAS NOTICIAS SOBRE EL MUNDO DEL MOTOR</subtitle>
+  <link href="https://www.motornews.com/" />
+  <updated>2024-11-15T12:00:00+01:00</updated>
+
+  <author>
+    <name>Redacción MotorNews</name>
+  </author>
+
+  <entry>
+    <id>https://www.motornews.com/ferrari-sf-2024-hibrid</id>
+    <title>Ferrari presenta su nuevo modelo híbrido, el SF-2024</title>
+    <summary>Nuevo modelo híbrido con motor V8 de 800 CV y ​​autonomía eléctrica.</summary>
+    <link href="https://www.motornews.com/ferrari-sf-2024-hibrid" />
+    <updated>2024-11-14T10:00:00+01:00</updated>
+  </entry>
+
+  <entry>
+    <id>https://www.motornews.com/volkswagen-investment-electric-cars</id>
+    <title>Volkswagen anuncia una inversión de 10.000 millones en vehículos eléctricos</title>
+    <summary>Nuevos modelos eléctricos con una autonomía de hasta 700 km.</summary>
+    <link href="https://www.motornews.com/volkswagen-investment-electric-cars" />
+    <updated>2024-11-12T15:30:00+01:00</updated>
+  </entry>
+
+</feed>
